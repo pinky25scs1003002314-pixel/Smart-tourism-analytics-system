@@ -1,48 +1,52 @@
 # Smart Tourism Analytics System
 
-Smart Tourism Analytics System is a Python-based data science and machine learning project designed to analyze tourism data and generate meaningful insights about tourist visits and destinations across India.
+A beginner-friendly academic project that demonstrates tourism data cleaning, preprocessing, exploratory analysis, machine-learning regression, interactive charts and an India destination map.
 
-The main objective of this project is to use data analytics, visualization, and machine learning techniques to understand tourism trends, compare popular destinations, and estimate tourist visits based on different parameters such as year, month, state, and destination.
+## Features
+- Upload a tourism CSV or use the included sample dataset.
+- Clean duplicate rows, missing values, numeric columns and text fields.
+- Calculate total visitors.
+- Explore visitor totals by state, month and destination.
+- Train a Random Forest regression model to estimate visitor counts.
+- Evaluate the model with MAE, RMSE and R².
+- View destinations on an interactive map.
+- Download the cleaned CSV.
 
-## Key Features
+## Setup
+1. Install Python 3.10 or newer.
+2. Open a terminal in this project folder.
+3. Create and activate a virtual environment (recommended):
 
-1. **Data Collection:** Supports tourism dataset loading through CSV files and allows users to upload their own datasets.
+   Windows:
+   ```bash
+   python -m venv .venv
+   .venv\\Scripts\\activate
+   ```
 
-2. **Data Cleaning:** Handles missing values, duplicate records, incorrect data types, and inconsistent data.
+   macOS/Linux:
+   ```bash
+   python3 -m venv .venv
+   source .venv/bin/activate
+   ```
 
-3. **Data Preprocessing:** Organizes and transforms raw tourism data into a structured format suitable for analysis and machine learning.
+4. Install libraries:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-4. **Exploratory Data Analysis:** Analyzes tourist visits based on states, destinations, months, and visitor categories.
+5. Run:
+   ```bash
+   streamlit run app.py
+   ```
 
-5. **Machine Learning Model:** Uses a Random Forest Regression algorithm to estimate tourist visits based on selected inputs.
+## Dataset columns
+The CSV must contain:
+`year, month, state, city, destination, domestic_visitors, international_visitors, latitude, longitude`
 
-6. **Model Evaluation:** Evaluates model performance using Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and R² Score.
+The included CSV contains illustrative sample records for demonstrating the workflow. Replace it with a reliable, properly cited tourism dataset before making real-world claims or submitting final research results.
 
-7. **Data Visualization:** Displays interactive bar charts, line charts, and pie charts to represent tourism patterns and visitor statistics.
-
-8. **Interactive Tourism Map:** Uses Folium and geographical coordinates to display tourist destinations on an interactive India map.
-
-9. **Dashboard:** Provides a user-friendly Streamlit interface that combines data analysis, preprocessing, predictions, charts, and maps.
-
-## Technologies Used
-
-- Python
-- Streamlit
-- Pandas
-- NumPy
-- Scikit-learn
-- Plotly
-- Folium
-- HTML-based map visualization
-
-## Project Benefits
-
-This project demonstrates the practical application of data science and machine learning in the tourism domain. It helps users explore tourism datasets, understand visitor patterns, compare destinations, and visualize geographical tourism information.
-
-## Future Scope
-
-Future improvements may include real-time tourism data integration, weather-based tourism analysis, recommendation systems, larger datasets, and more advanced prediction models.
-
-**Project Type:** Data Science and Machine Learning  
-**Domain:** Tourism Analytics  
-**Developed for:** Academic Project and Learning Purpose
+## Important limitations
+- The included dataset is a small sample for software demonstration, not official government statistics.
+- The ML model is a baseline Random Forest model. Its metrics are only meaningful when trained and tested on a sufficiently large, representative dataset.
+- The model estimates visitor counts from year, month, state and destination. It does not establish causal relationships.
+- The map displays the coordinates supplied in the dataset.

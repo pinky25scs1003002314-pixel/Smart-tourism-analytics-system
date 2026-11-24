@@ -1,0 +1,97 @@
+year,month,state,city,destination,domestic_visitors,international_visitors,latitude,longitude
+2022,1,Uttar Pradesh,Agra,Taj Mahal,198000,19800,27.1767,78.0081
+2022,1,Rajasthan,Jaipur,Amber Fort,161200,24650,26.9124,75.7873
+2022,1,Goa,Panaji,Goa Beaches,179400,39400,15.4909,73.8278
+2022,1,Kerala,Kochi,Fort Kochi,142600,32150,9.9312,76.2673
+2022,1,Uttar Pradesh,Varanasi,Kashi Vishwanath,177300,15000,25.3176,82.9739
+2022,1,Delhi,New Delhi,India Gate,195500,35250,28.6139,77.209
+2022,4,Uttar Pradesh,Agra,Taj Mahal,165600,16560,27.1767,78.0081
+2022,4,Rajasthan,Jaipur,Amber Fort,135100,20690,26.9124,75.7873
+2022,4,Goa,Panaji,Goa Beaches,150600,33100,15.4909,73.8278
+2022,4,Kerala,Kochi,Fort Kochi,120100,27110,9.9312,76.2673
+2022,4,Uttar Pradesh,Varanasi,Kashi Vishwanath,149400,12840,25.3176,82.9739
+2022,4,Delhi,New Delhi,India Gate,164900,29850,28.6139,77.209
+2022,7,Uttar Pradesh,Agra,Taj Mahal,140400,14040,27.1767,78.0081
+2022,7,Rajasthan,Jaipur,Amber Fort,114800,17610,26.9124,75.7873
+2022,7,Goa,Panaji,Goa Beaches,128200,28200,15.4909,73.8278
+2022,7,Kerala,Kochi,Fort Kochi,102600,23190,9.9312,76.2673
+2022,7,Uttar Pradesh,Varanasi,Kashi Vishwanath,127700,11160,25.3176,82.9739
+2022,7,Delhi,New Delhi,India Gate,141100,25650,28.6139,77.209
+2022,10,Uttar Pradesh,Agra,Taj Mahal,212400,21240,27.1767,78.0081
+2022,10,Rajasthan,Jaipur,Amber Fort,172800,26410,26.9124,75.7873
+2022,10,Goa,Panaji,Goa Beaches,192200,42200,15.4909,73.8278
+2022,10,Kerala,Kochi,Fort Kochi,152600,34390,9.9312,76.2673
+2022,10,Uttar Pradesh,Varanasi,Kashi Vishwanath,189700,15960,25.3176,82.9739
+2022,10,Delhi,New Delhi,India Gate,209100,37650,28.6139,77.209
+2023,1,Uttar Pradesh,Agra,Taj Mahal,214160,21686,27.1767,78.0081
+2023,1,Rajasthan,Jaipur,Amber Fort,174665,26844,26.9124,75.7873
+2023,1,Goa,Panaji,Goa Beaches,194020,42595,15.4909,73.8278
+2023,1,Kerala,Kochi,Fort Kochi,154525,34806,9.9312,76.2673
+2023,1,Uttar Pradesh,Varanasi,Kashi Vishwanath,191535,16424,25.3176,82.9739
+2023,1,Delhi,New Delhi,India Gate,210890,38060,28.6139,77.209
+2023,4,Uttar Pradesh,Agra,Taj Mahal,179492,18219,27.1767,78.0081
+2023,4,Rajasthan,Jaipur,Amber Fort,146738,22606,26.9124,75.7873
+2023,4,Goa,Panaji,Goa Beaches,163204,35854,15.4909,73.8278
+2023,4,Kerala,Kochi,Fort Kochi,130450,29413,9.9312,76.2673
+2023,4,Uttar Pradesh,Varanasi,Kashi Vishwanath,161682,14112,25.3176,82.9739
+2023,4,Delhi,New Delhi,India Gate,178148,32282,28.6139,77.209
+2023,7,Uttar Pradesh,Agra,Taj Mahal,152528,15522,27.1767,78.0081
+2023,7,Rajasthan,Jaipur,Amber Fort,125017,19311,26.9124,75.7873
+2023,7,Goa,Panaji,Goa Beaches,139236,30611,15.4909,73.8278
+2023,7,Kerala,Kochi,Fort Kochi,111725,25218,9.9312,76.2673
+2023,7,Uttar Pradesh,Varanasi,Kashi Vishwanath,138463,12315,25.3176,82.9739
+2023,7,Delhi,New Delhi,India Gate,152682,27788,28.6139,77.209
+2023,10,Uttar Pradesh,Agra,Taj Mahal,229568,23226,27.1767,78.0081
+2023,10,Rajasthan,Jaipur,Amber Fort,187077,28727,26.9124,75.7873
+2023,10,Goa,Panaji,Goa Beaches,207716,45591,15.4909,73.8278
+2023,10,Kerala,Kochi,Fort Kochi,165225,37202,9.9312,76.2673
+2023,10,Uttar Pradesh,Varanasi,Kashi Vishwanath,204803,17451,25.3176,82.9739
+2023,10,Delhi,New Delhi,India Gate,225442,40628,28.6139,77.209
+2024,1,Uttar Pradesh,Agra,Taj Mahal,230320,23572,27.1767,78.0081
+2024,1,Rajasthan,Jaipur,Amber Fort,188130,29038,26.9124,75.7873
+2024,1,Goa,Panaji,Goa Beaches,208640,45790,15.4909,73.8278
+2024,1,Kerala,Kochi,Fort Kochi,166450,37462,9.9312,76.2673
+2024,1,Uttar Pradesh,Varanasi,Kashi Vishwanath,205770,17848,25.3176,82.9739
+2024,1,Delhi,New Delhi,India Gate,226280,40870,28.6139,77.209
+2024,4,Uttar Pradesh,Agra,Taj Mahal,193384,19878,27.1767,78.0081
+2024,4,Rajasthan,Jaipur,Amber Fort,158376,24523,26.9124,75.7873
+2024,4,Goa,Panaji,Goa Beaches,175808,38608,15.4909,73.8278
+2024,4,Kerala,Kochi,Fort Kochi,140800,31716,9.9312,76.2673
+2024,4,Uttar Pradesh,Varanasi,Kashi Vishwanath,173964,15385,25.3176,82.9739
+2024,4,Delhi,New Delhi,India Gate,191396,34714,28.6139,77.209
+2024,7,Uttar Pradesh,Agra,Taj Mahal,164656,17005,27.1767,78.0081
+2024,7,Rajasthan,Jaipur,Amber Fort,135234,21012,26.9124,75.7873
+2024,7,Goa,Panaji,Goa Beaches,150272,33022,15.4909,73.8278
+2024,7,Kerala,Kochi,Fort Kochi,120850,27247,9.9312,76.2673
+2024,7,Uttar Pradesh,Varanasi,Kashi Vishwanath,149226,13470,25.3176,82.9739
+2024,7,Delhi,New Delhi,India Gate,164264,29926,28.6139,77.209
+2024,10,Uttar Pradesh,Agra,Taj Mahal,246736,25213,27.1767,78.0081
+2024,10,Rajasthan,Jaipur,Amber Fort,201354,31044,26.9124,75.7873
+2024,10,Goa,Panaji,Goa Beaches,223232,48982,15.4909,73.8278
+2024,10,Kerala,Kochi,Fort Kochi,177850,40015,9.9312,76.2673
+2024,10,Uttar Pradesh,Varanasi,Kashi Vishwanath,219906,18942,25.3176,82.9739
+2024,10,Delhi,New Delhi,India Gate,241784,43606,28.6139,77.209
+2025,1,Uttar Pradesh,Agra,Taj Mahal,246480,25458,27.1767,78.0081
+2025,1,Rajasthan,Jaipur,Amber Fort,201595,31232,26.9124,75.7873
+2025,1,Goa,Panaji,Goa Beaches,223260,48985,15.4909,73.8278
+2025,1,Kerala,Kochi,Fort Kochi,178375,40118,9.9312,76.2673
+2025,1,Uttar Pradesh,Varanasi,Kashi Vishwanath,220005,19272,25.3176,82.9739
+2025,1,Delhi,New Delhi,India Gate,241670,43680,28.6139,77.209
+2025,4,Uttar Pradesh,Agra,Taj Mahal,207276,21537,27.1767,78.0081
+2025,4,Rajasthan,Jaipur,Amber Fort,170014,26440,26.9124,75.7873
+2025,4,Goa,Panaji,Goa Beaches,188412,41362,15.4909,73.8278
+2025,4,Kerala,Kochi,Fort Kochi,151150,34019,9.9312,76.2673
+2025,4,Uttar Pradesh,Varanasi,Kashi Vishwanath,186246,16658,25.3176,82.9739
+2025,4,Delhi,New Delhi,India Gate,204644,37146,28.6139,77.209
+2025,7,Uttar Pradesh,Agra,Taj Mahal,176784,18488,27.1767,78.0081
+2025,7,Rajasthan,Jaipur,Amber Fort,145451,22713,26.9124,75.7873
+2025,7,Goa,Panaji,Goa Beaches,161308,35433,15.4909,73.8278
+2025,7,Kerala,Kochi,Fort Kochi,129975,29276,9.9312,76.2673
+2025,7,Uttar Pradesh,Varanasi,Kashi Vishwanath,159989,14625,25.3176,82.9739
+2025,7,Delhi,New Delhi,India Gate,175846,32064,28.6139,77.209
+2025,10,Uttar Pradesh,Agra,Taj Mahal,263904,27200,27.1767,78.0081
+2025,10,Rajasthan,Jaipur,Amber Fort,215631,33361,26.9124,75.7873
+2025,10,Goa,Panaji,Goa Beaches,238748,52373,15.4909,73.8278
+2025,10,Kerala,Kochi,Fort Kochi,190475,42828,9.9312,76.2673
+2025,10,Uttar Pradesh,Varanasi,Kashi Vishwanath,235009,20433,25.3176,82.9739
+2025,10,Delhi,New Delhi,India Gate,258126,46584,28.6139,77.209
